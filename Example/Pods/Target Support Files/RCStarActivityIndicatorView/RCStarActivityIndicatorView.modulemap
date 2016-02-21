@@ -1,0 +1,6 @@
+framework module RCStarActivityIndicatorView {
+  umbrella header "RCStarActivityIndicatorView-umbrella.h"
+
+  export *
+  module * { export * }
+}

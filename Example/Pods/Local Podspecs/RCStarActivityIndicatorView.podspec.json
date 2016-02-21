@@ -1,0 +1,25 @@
+{
+  "name": "RCStarActivityIndicatorView",
+  "version": "0.1.0",
+  "summary": "An activity indicator view for use in iOS apps.",
+  "description": "This pod creates an activity indicator view which contains a star rotating around in a circle.",
+  "homepage": "https://github.com/rcutshaw/RCStarActivityIndicatorView",
+  "license": "MIT",
+  "authors": {
+    "Randy Cutshaw": "rcutshaw@bitsmartz.com"
+  },
+  "source": {
+    "git": "https://github.com/rcutshaw/RCStarActivityIndicatorView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "RCStarActivityIndicatorView": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

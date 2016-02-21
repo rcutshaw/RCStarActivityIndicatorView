@@ -1,0 +1,14 @@
+PODS:
+  - RCStarActivityIndicatorView (0.1.0)
+
+DEPENDENCIES:
+  - RCStarActivityIndicatorView (from `../`)
+
+EXTERNAL SOURCES:
+  RCStarActivityIndicatorView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RCStarActivityIndicatorView: fafb79f13e11f6a78cdfe130943b49c0ef291bd3
+
+COCOAPODS: 0.39.0
